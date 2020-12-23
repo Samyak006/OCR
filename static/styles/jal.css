@@ -1,0 +1,17 @@
+body{
+	background-image: url("/static/images/backp.jpg");
+	color: #fffdd0;
+}
+.brand{
+	font-size: 64px;
+	text-align: center;
+	background-color: #1b227d;
+
+}
+#Welcome{
+	background-color: #070b45;
+	box-sizing: border-box;
+	font-size: 16px;
+	padding-left: 5px;
+	border: 1px solid white;
+}

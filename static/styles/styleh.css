@@ -1,0 +1,18 @@
+body{
+	color: #fffdd0;
+	background-image: url('/static/images/backp.jpg');
+	background-blend-mode: lighten;
+}
+.brand{
+	font-size: 64px;
+	text-align: center;
+	background-image: url('/static/images/hed1.jfif');
+	background-blend-mode: lighten;
+}
+#Welcome{
+	background-blend-mode: lighten;
+	box-sizing: border-box;
+	font-size: 16px;
+	padding-left: 5px;
+	border: 1px solid white;
+}

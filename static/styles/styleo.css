@@ -1,0 +1,14 @@
+body{
+	background-color: white;
+}
+.brand{
+	font-size: 64px;
+	text-align: center;
+	background-image: url('/static/images/header.jfif');
+}
+#Welcome{
+	box-sizing: border-box;
+	font-size: 16px;
+	padding-left: 5px;
+	border: 1px solid white;
+}
